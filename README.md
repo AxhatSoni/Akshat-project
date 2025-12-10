@@ -1,10 +1,22 @@
-Adding some sensitive env information like cluster url.
-to access admin panel
-Email : akshat@gmail.com
-password : akshat123
+Admin Panel Access (Demo Credentials)
 
-frontend url: https://akshat-project.netlify.app/
+For preview and testing purposes, the admin panel can be accessed using the following login details:
+Email: akshat@gmail.com
+Password: akshat123
 
-key points: 
-responsive for web screen and mobile screen
-cloud db connected with cluster so it can be accessed anywhere
+Frontend Deployment URL
+The live version of the application is available at:
+https://akshat-project.netlify.app/
+
+Environment & Cloud Infrastructure Details
+Homely is configured with a secure cloud-based database connection using a cluster URL stored in environment variables. This ensures:
+The platform can be accessed and managed from any location
+Centralized storage with real-time sync
+Improved scalability and reliability
+Secure handling of sensitive credentials through environment files
+Responsiveness & Compatibility
+
+The application is built with a fully responsive layout, offering:
+Optimized visuals and interactions for desktop screens
+A seamless, mobile-friendly interface for smartphones and tablets
+Adaptive UI components for consistent experience across all device sizes
